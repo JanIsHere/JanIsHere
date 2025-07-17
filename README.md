@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 What I’m working on<br>A secret, for now... 🤫<br><br>🛠️ Tech I use<br>- **Languages:** JavaScript, TypeScript, Java, HTML/CSS and sum more<br>- **Tools:** VS (Code), Git, Cloudflare, Vercel, Supabase<br>- **Frameworks:** React, WinUI, Tailwind, Node.js<br>Idk prob forgot smth but those are my main :3<br><br>🌱 Currently learning<br>- Databases and ai stwuff  <br>- UX design principles<br><br>✨ Fun facts <br>- I'm all about polished user experiences, and clever interactions  <br>- I can´t think straight<br>- Data yummy 😋
+🚀 What I’m working on<br>A secret, for now... 🤫<br><br>🛠️ Tech I use<br>- **Languages:** JavaScript, TypeScript, Java, HTML/CSS and sum more<br>- **Tools:** VS (Code), Git, Cloudflare, Vercel, Supabase<br>- **Frameworks:** React, WinUI, Tailwind, Node.js<br>Idk prob forgot smth but those are my main :3<br><br>🌱 Currently learning<br>- Databases and ai stwuff  <br>- UX design principles<br><br>✨ Fun facts <br>- I like having polished user experiences and clever interactions  <br>- I can´t think straight<br>- Data yummy 😋
 
 
 # 💻 Tech Stack:
